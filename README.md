@@ -6,10 +6,8 @@ It covers the basic concepts of java.I included a number of examples and descrip
 
 References from : 
 
-  Java
-  
-  The Complete Reference
-  
-  Ninth Edition
+  Java,
+  The Complete Reference.
+  (Ninth Edition)
 
   Herbert Schildt
